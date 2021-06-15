@@ -38,7 +38,7 @@ const Header = () =>  (
       <SocialIcons href = "https://twitter.com/jumbopere">
         <AiFillTwitterSquare size = "3rem"/>
         </SocialIcons>
-      <SocialIcons href = "https://instagram.com/jumbopere">
+      <SocialIcons href = "www.linkedin.com/in/perejumbo">
         <AiFillLinkedin size = "3rem"/>
         </SocialIcons>
     </Div3>
