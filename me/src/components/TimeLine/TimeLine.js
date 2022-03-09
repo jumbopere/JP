@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      Jumbo Pere is a web devloper based in Lagos, Nigeria. 
+      Jumbo Pere is a exiciting web devloper based in Lagos, Nigeria. 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
